@@ -1,1 +1,1 @@
-# Srudent-Leave-Management-System
+# Student-Leave-Management-System
